@@ -97,7 +97,7 @@ The aim is to assist in early detection of breast cancer using medical diagnosti
     <li>Fractal Dimension</li>
 </ul>
 
-<h2>⚙️ Technologies Used</h2>
+<h2>Technologies Used</h2>
 <table>
     <tr>
         <th>Technology</th>
@@ -149,9 +149,11 @@ Accuracy: <span class="highlight">93-95 %</span>
     <li>Add real-time prediction system</li>
     <li>Improve UI/UX</li>
 </ul>
-  <a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
-  View My Project PDF
+
+<a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
+  <button>Download PDF</button>
 </a>
+
 
 <footer>
  Author: Amruta Gulik <br>
