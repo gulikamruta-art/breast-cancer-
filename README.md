@@ -149,13 +149,14 @@ Accuracy: <span class="highlight">93-95 %</span>
     <li>Add real-time prediction system</li>
     <li>Improve UI/UX</li>
 </ul>
+  <a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
+  View My Project PDF
+</a>
 
 <footer>
  Author: Amruta Gulik <br>
     Machine Learning Project | 2026
-    <a href="C:\Users\AMRUTA\Downloads\Copy_of_Amrutagulik_.ipynb">
-  View My Project PDF
-</a>
+  
 
 </footer>
 
