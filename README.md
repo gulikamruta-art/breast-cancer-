@@ -150,7 +150,9 @@ Accuracy: <span class="highlight">93-95 %</span>
     <li>Improve UI/UX</li>
 </ul>
 
-My project link: Copy_of_Amrutagulik_.ipynb
+My project link:
+<ahref:=Copy_of_Amrutagulik_.ipynb>
+</a>
 
 <footer>
  Author: Amruta Gulik <br>
